@@ -1,0 +1,7 @@
+C:\Users\Samet\source\repos\DependencyInjectionConsole\DependencyInjectionConsole\bin\Debug\DependencyInjectionConsole.exe.config
+C:\Users\Samet\source\repos\DependencyInjectionConsole\DependencyInjectionConsole\bin\Debug\DependencyInjectionConsole.exe
+C:\Users\Samet\source\repos\DependencyInjectionConsole\DependencyInjectionConsole\bin\Debug\DependencyInjectionConsole.pdb
+C:\Users\Samet\source\repos\DependencyInjectionConsole\DependencyInjectionConsole\obj\Debug\DependencyInjectionConsole.csprojAssemblyReference.cache
+C:\Users\Samet\source\repos\DependencyInjectionConsole\DependencyInjectionConsole\obj\Debug\DependencyInjectionConsole.csproj.CoreCompileInputs.cache
+C:\Users\Samet\source\repos\DependencyInjectionConsole\DependencyInjectionConsole\obj\Debug\DependencyInjectionConsole.exe
+C:\Users\Samet\source\repos\DependencyInjectionConsole\DependencyInjectionConsole\obj\Debug\DependencyInjectionConsole.pdb
